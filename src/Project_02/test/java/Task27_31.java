@@ -1,5 +1,3 @@
-package Project_02.test.java;
-
 import Utilites.DBUtility;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package Project_02.test.java.Utilites;
+package Utilites;
 
 import java.sql.*;
 import java.util.ArrayList;
