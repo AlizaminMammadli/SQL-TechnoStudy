@@ -1,5 +1,3 @@
-package Project_02.test.java;
-
 import Utilites.DBUtility;
 
 public class Task22_26 extends DBUtility {
